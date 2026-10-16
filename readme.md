@@ -4,7 +4,7 @@
 
 to jest tekst **pogrubiony**
 
-* * to jest italic
+*  to jest italic 
 
 > to jest poszarzały tekst
 

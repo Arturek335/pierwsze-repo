@@ -4,9 +4,11 @@
 
 to jest tekst **pogrubiony**
 
-*  to jest italic 
+  to jest *italic* 
 
 > to jest poszarzały tekst
 
-1. first list item
-    _ pierwszy podpunkt
+* item 1 
+* item 2 
+    * item 2a
+    * item 2b
